@@ -1,0 +1,93 @@
+{
+  "informations": {
+    "archiveTitle": "Archiv Beiträge",
+    "archiveText": "A erat nam at lectus urna duis convallis. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Ultrices eros in cursus turpis massa tincidunt. Senectus et netus et malesuada fames ac turpis egestas. Ornare suspendisse sed nisi lacus sed viverra. Sagittis aliquam malesuada bibendum arcu vitae. Id porta nibh venenatis cras sed felis eget velit aliquet. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Et molestie ac feugiat sed lectus. Urna condimentum mattis pellentesque id nibh. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Etiam sit amet nisl purus in. Et leo duis ut diam quam nulla."
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "Pflanzen eintopfen",
+      "date": "20.07.2023",
+      "description": "Beschreibung des Post 01",
+      "extraContentText": "<strong>Zusatzinformationen B</strong><br> API API Die Plätze für diese Veranstaltung sind begrenzt. Meldet euch bitte mit einer kurzen E-Mail an. Das dient uns zur Planung des Workshops oder dazu euch über unvorhergesehene Änderungen zu informieren.",
+      "thumbnail": "https://images.unsplash.com/photo-1518994603110-1912b3272afd?q=80&w=2824&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima02.webp", "https://julianquitsch.de/images/anima/anima03.webp"],
+      "links": [
+        {
+          "link-id": "1",
+          "link-name": "Link A",
+          "link-url": "https://kulturbanause.de/blog/silbentrennung-im-browser-css-eigenschaft-hyphens/"
+        }
+      ]    
+    },
+    {
+      "id": 2,
+      "title": "Gewächshaus bauen",
+      "date": "21.08.2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Rutrum quisque non tellus orci ac auctor augue. In metus vulputate eu scelerisque felis imperdiet proin fermentum. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Cursus risus at ultrices mi tempus. Felis donec et odio pellentesque diam volutpat commodo sed egestas. Velit scelerisque in dictum non consectetur a erat nam. Elementum sagittis vitae et leo duis ut diam quam. Ut diam quam nulla porttitor massa. Vitae elementum curabitur vitae nunc sed velit. Id velit ut tortor pretium viverra suspendisse. Nisl nisi scelerisque eu ultrices vitae auctor eu. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Molestie nunc non blandit massa enim nec dui. Interdum velit laoreet id donec. Maecenas volutpat blandit aliquam etiam erat velit. Turpis massa sed elementum tempus egestas sed sed. Etiam non quam lacus suspendisse faucibus interdum. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Massa ultricies mi quis hendrerit dolor magna eget est. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Lectus vestibulum mattis ullamcorper velit sed ullamcorper. Pharetra et ultrices neque ornare. Porttitor leo a diam sollicitudin tempor id. Tristique magna sit amet purus gravida quis blandit. Platea dictumst quisque sagittis purus sit amet volutpat. Elit ut aliquam purus sit amet luctus venenatis lectus.",
+      "extraContentText": "<strong>Zusatzinformationen A</strong><br> API API Die Plätze für diese Veranstaltung sind begrenzt. Meldet euch bitte mit einer kurzen E-Mail an. Das dient uns zur Planung des Workshops oder dazu euch über unvorhergesehene Änderungen zu informieren.",
+      "thumbnail": "https://images.unsplash.com/photo-1559593532-f242fad6118d?q=80&w=2008&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima03.webp"],
+      "links": [
+        {
+          "link-id": "1",
+          "link-name": "Link A",
+          "link-url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor"
+        },
+        {
+          "link-id": "2",
+          "link-name": "Link B",
+          "link-url": "https://fonts.google.com/selection"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gartenplanung",
+      "date": "10.05.2024",
+      "description": "Eine detaillierte Anleitung zur Planung eines Gartens",
+      "extraContentText": "<strong>Zusatzinformationen C</strong><br> Tipps und Tricks zur optimalen Gartengestaltung.",
+      "thumbnail": "https://images.unsplash.com/photo-1524594532530-0dc0e77d5984?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima04.webp"],
+      "links": [
+        {
+          "link-id": "3",
+          "link-name": "Link C",
+          "link-url": "https://www.example.com/gartenplanung"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gartenmöbel bauen",
+      "date": "15.06.2024",
+      "description": "Ein DIY-Projekt für Gartenmöbel",
+      "extraContentText": "<strong>Zusatzinformationen D</strong><br> Materialien und Werkzeuge für den Bau von Gartenmöbeln.",
+      "thumbnail": "https://images.unsplash.com/photo-1587814698939-16bda0c9a80e?q=80&w=2732&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima05.webp"],
+      "links": [
+        {
+          "link-id": "4",
+          "link-name": "Link D",
+          "link-url": "https://www.example.com/gartenmoebel"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ernte vorbereiten",
+      "date": "01.09.2024",
+      "description": "Vorbereitung für die Ernte im Herbst",
+      "extraContentText": "<strong>Zusatzinformationen E</strong><br> Welche Schritte für eine erfolgreiche Ernte nötig sind.",
+      "thumbnail": "https://images.unsplash.com/photo-1595003121705-1ffadf8a0f0b?q=80&w=2732&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima06.webp"],
+      "links": [
+        {
+          "link-id": "5",
+          "link-name": "Link E",
+          "link-url": "https://www.example.com/ernte-vorbereiten"
+        }
+      ]
+    }
+  ]
+}

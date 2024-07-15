@@ -1,0 +1,44 @@
+{
+  "informations": {
+    "archiveTitle": "Archiv Veranstaltungen",
+    "archiveText": "A erat nam at lectus urna duis convallis. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Ultrices eros in cursus turpis massa tincidunt. Senectus et netus et malesuada fames ac turpis egestas. Ornare suspendisse sed nisi lacus sed viverra. Sagittis aliquam malesuada bibendum arcu vitae. Id porta nibh venenatis cras sed felis eget velit aliquet. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Et molestie ac feugiat sed lectus. Urna condimentum mattis pellentesque id nibh. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Etiam sit amet nisl purus in. Et leo duis ut diam quam nulla."
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Pflanzenkohle",
+      "date": "18.07.2022",
+      "daytime": "18:00 Uhr",
+      "description": "Beschreibung des Events 2022",
+      "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": [
+        "https://julianquitsch.de/images/anima/anima02.webp",
+        "https://julianquitsch.de/images/anima/anima03.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Terra Preta 2",
+      "date": "19.08.2023",
+      "daytime": "19:00 Uhr",
+      "description": "Beschreibung des Events 2023",
+      "thumbnail": "https://images.unsplash.com/photo-1600277259675-0edbcb3182d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": [
+        "https://julianquitsch.de/images/anima/anima02.webp",
+        "https://julianquitsch.de/images/anima/anima03.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Event 2024 Beispiel",
+      "date": "20.05.2024",
+      "daytime": "20:00 Uhr",
+      "description": "Beschreibung des Events 2024",
+      "thumbnail": "https://images.unsplash.com/photo-1628782193139-b9d2e22afa31?q=80&w=2430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": [
+        "https://julianquitsch.de/images/anima/anima02.webp",
+        "https://julianquitsch.de/images/anima/anima03.webp"
+      ]
+    }
+  ]
+}
