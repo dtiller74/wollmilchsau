@@ -64,6 +64,28 @@
       ]
     }
   ],
+      {
+      "id": 3,
+      "title": "Nominierung Bürgerpreis",
+      "date": "17.07.24",
+      "description": "Unser Verein wurde für den Halleschen Bürgerpreis "Der Esel der auf Rosen geht" nominiert.",
+      "extraContentText": "<strong>Zusatzinformationen A</strong><br> API API Die Plätze für diese Veranstaltung sind begrenzt. Meldet euch bitte mit einer kurzen E-Mail an. Das dient uns zur Planung des Workshops oder dazu euch über unvorhergesehene Änderungen zu informieren.",
+      "thumbnail": "https://images.unsplash.com/photo-1628782193139-b9d2e22afa31?q=80&w=2430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima03.webp"],
+      "links": [
+                {
+                "link-id": "1",
+                "link-name": "Link A",
+                "link-url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor"
+                },
+                 {
+                "link-id": "2",
+                "link-name": "Link B",
+                "link-url": "https://fonts.google.com/selection"
+                }
+      ]
+    }
+  ],
 "informations": {
       "aboutHeadline": "Unser Verein<br>Eierlegende Wollmilchsau",
       "aboutText": "Wir haben uns zum Ziel gesetzt in der Stadt Halle einen Ort der Zusammen­kunft zu schaffen und Kindern, Jugend­lichen und Erwachsenen in einem sozial-ökologischen Projekt zusammenzubringen. Hierfür haben wir begonnen einen naturnahen Bauernhof zu errichten. Wir arbeiten auf der Grundlage des Bio-Psycho-sozialen Modell und verbinden Umweltpädagogik und die Förderung sozialer Kompetenzen. Aktuell haben wir Hühner, Tauben und seit diesem Jahr Bienen. Wir arbeiten mit freien Trägern der Jugend­hilfe, Schulen und Kitas zusammen.",
