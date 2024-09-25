@@ -2,11 +2,11 @@
   "events": [
     {
       "id": 1,
-      "title": "Pflanzenkohle",
-      "date": "18.07.2024",
-      "daytime": "18:00 Uhr",
-      "location": "Galle",
-      "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
+      "title": "Arbeitseinsatz",
+      "date": "28.09.2025",
+      "daytime": "11:00",
+      "location": "Hühnergehege Galgenberg",
+      "description": "Wir treffen uns zu unserem nächsten Arbeitseinsatz um den Zaun der Hühner zu erneuern, die Ställe zu reinigen und die kommenden Aufgaben zu besprechen",
       "credits": "<span>Drehbuch:</span> Alina Cyranek <span>Regie:</span> Alina Cyranek & Falk Schuster <span>Produktion:</span> hug films <span>Layout:</span> Tim Romanowsky, Alexander Schmidt, Falk Schuster <span>Animation:</span> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <span>Compositing, Colorgrading:</span> Julian Quitsch",
       "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "image": ["https://julianquitsch.de/images/anima/anima02.webp",
@@ -64,10 +64,10 @@
       ]
     }
   ],
-  "informations": {
+"informations": {
       "aboutHeadline": "Unser Verein<br>Eierlegende Wollmilchsau",
-      "aboutText": "API API Wir haben uns zum Ziel gesetzt in der Stadt Halle einen Ort der Zusammen­kunft zu schaffen und Kindern, Jugend­lichen und Erwachsenen in einem sozial-ökologischen Projekt zusammenzubringen. Hierfür haben wir begonnen einen naturnahen Bauernhof zu errichten. Wir arbeiten auf der Grundlage des Bio-Psycho-sozialen Modell und verbinden Umweltpädagogik und die Förderung sozialer Kompetenzen. Aktuell haben wir Hühner, Tauben und seit diesem Jahr Bienen. Wir arbeiten mit freien Trägern der Jugend­hilfe, Schulen und Kitas zusammen.",
-      "contactText": "API API API Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat.",
-      "fundingText": "Sed odio morbi quis commodo odio aenean sed. Habitant morbi tristique senectus et netus et. Ac tortor vitae purus faucibus ornare suspendisse sed. Ultrices vitae auctor eu augue ut."
+      "aboutText": "Wir haben uns zum Ziel gesetzt in der Stadt Halle einen Ort der Zusammen­kunft zu schaffen und Kindern, Jugend­lichen und Erwachsenen in einem sozial-ökologischen Projekt zusammenzubringen. Hierfür haben wir begonnen einen naturnahen Bauernhof zu errichten. Wir arbeiten auf der Grundlage des Bio-Psycho-sozialen Modell und verbinden Umweltpädagogik und die Förderung sozialer Kompetenzen. Aktuell haben wir Hühner, Tauben und seit diesem Jahr Bienen. Wir arbeiten mit freien Trägern der Jugend­hilfe, Schulen und Kitas zusammen.",
+      "contactText": "Wenn Ihr mit uns Kontakt aufnehmen wollt, schreibt am besten eine Mail. <br> Postadresse: <br> Eierlegende Wollmilchsau e.V <br> Bernburger Straße 22 <br> 06108 Halle",
+      "fundingText": "Unser Verein wird gefördert durch."
     }
 }
