@@ -12,17 +12,7 @@
       "image": ["https://julianquitsch.de/images/anima/anima02.webp",
                 "https://julianquitsch.de/images/anima/anima03.webp"]
     },
-    {
-      "id": 2,
-      "title": "Terra Preta 2",
-      "date": "19.08.2024",
-      "daytime": "19:00 Uhr",
-      "location": "Galgenberg",
-      "description": "<stron>Inhalt der Veranstaltung</stron><br>Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
-      "credits": "<span>Drehbuch:</span> Alina Cyranek <span>Regie:</span> Alina Cyranek & Falk Schuster <span>Produktion:</span> hug films <span>Layout:</span> Tim Romanowsky, Alexander Schmidt, Falk Schuster <span>Animation:</span> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <span>Compositing, Colorgrading:</span> Julian Quitsch",
-      "thumbnail": "https://images.unsplash.com/photo-1600277259675-0edbcb3182d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "image": ["https://julianquitsch.de/images/anima/anima02.webp"]
-    }
+
   ],
     "posts": [
     {
