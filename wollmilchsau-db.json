@@ -6,9 +6,9 @@
       "date": "28.09.2025",
       "daytime": "11:00",
       "location": "Hühnergehege Galgenberg",
-      "description": "Wir treffen uns zu unserem nächsten Arbeitseinsatz um den Zaun der Hühner zu erneuern, die Ställe zu reinigen und die kommenden Aufgaben zu besprechen",
+      "description": "Wir treffen uns zu unserem nächsten Arbeitseinsatz um den Zaun der Hühner zu erneuern,<br>die Ställe zu reinigen und die kommenden Aufgaben zu besprechen",
       "credits": "",
-      "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "thumbnail": "",
       "image": ["",
                 ""]
     },
@@ -46,7 +46,7 @@
       "id": 2,
       "title": "Gewächshaus bauen",
       "date": "21.08.24",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Rutrum quisque non tellus orci ac auctor augue. In metus vulputate eu scelerisque felis imperdiet proin fermentum. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Cursus risus at ultrices mi tempus. Felis donec et odio pellentesque diam volutpat commodo sed egestas. Velit scelerisque in dictum non consectetur a erat nam. Elementum sagittis vitae et leo duis ut diam quam. Ut diam quam nulla porttitor massa. Vitae elementum curabitur vitae nunc sed velit. Id velit ut tortor pretium viverra suspendisse. Nisl nisi scelerisque eu ultrices vitae auctor eu. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Molestie nunc non blandit massa enim nec dui. Interdum velit laoreet id donec. Maecenas volutpat blandit aliquam etiam erat velit. Turpis massa sed elementum tempus egestas sed sed. Etiam non quam lacus suspendisse faucibus interdum. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Massa ultricies mi quis hendrerit dolor magna eget est. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Lectus vestibulum mattis ullamcorper velit sed ullamcorper. Pharetra et ultrices neque ornare. Porttitor leo a diam sollicitudin tempor id. Tristique magna sit amet purus gravida quis blandit. Platea dictumst quisque sagittis purus sit amet volutpat. Elit ut aliquam purus sit amet luctus venenatis lectus.",
+      "description": "",
       "extraContentText": "<strong>Zusatzinformationen A</strong><br> API API Die Plätze für diese Veranstaltung sind begrenzt. Meldet euch bitte mit einer kurzen E-Mail an. Das dient uns zur Planung des Workshops oder dazu euch über unvorhergesehene Änderungen zu informieren.",
       "thumbnail": "https://images.unsplash.com/photo-1628782193139-b9d2e22afa31?q=80&w=2430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "image": ["https://julianquitsch.de/images/anima/anima03.webp"],
@@ -67,7 +67,7 @@
 "informations": {
       "aboutHeadline": "Unser Verein<br>Eierlegende Wollmilchsau",
       "aboutText": "Wir haben uns zum Ziel gesetzt in der Stadt Halle einen Ort der Zusammen­kunft zu schaffen und Kindern, Jugend­lichen und Erwachsenen in einem sozial-ökologischen Projekt zusammenzubringen. Hierfür haben wir begonnen einen naturnahen Bauernhof zu errichten. Wir arbeiten auf der Grundlage des Bio-Psycho-sozialen Modell und verbinden Umweltpädagogik und die Förderung sozialer Kompetenzen. Aktuell haben wir Hühner, Tauben und seit diesem Jahr Bienen. Wir arbeiten mit freien Trägern der Jugend­hilfe, Schulen und Kitas zusammen.",
-      "contactText": "Wenn Ihr mit uns Kontakt aufnehmen wollt, schreibt am besten eine Mail.<br>Postadresse:<br>Eierlegende Wollmilchsau e.V<br>Bernburger Straße 22<br>06108 Halle",
+      "contactText": "Wenn Ihr mit uns Kontakt aufnehmen wollt, schreibt am besten eine Mail.",
       "fundingText": "Unser Verein wird gefördert durch."
     }
 }
