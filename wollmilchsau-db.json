@@ -7,9 +7,9 @@
       "daytime": "11:00",
       "location": "Hühnergehege Galgenberg",
       "description": "Wir treffen uns zu unserem nächsten Arbeitseinsatz um den Zaun der Hühner zu erneuern,die Ställe zu reinigen und die kommenden Aufgaben zu besprechen",
-      "credits": "",
+      "credits": "Test",
       "thumbnail": "https://plus.unsplash.com/premium_photo-1664527009186-c99de7e508ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "image": ["https://plus.unsplash.com/premium_photo-1678832237885-ef157b15b8ad?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["",
                 ""]
     },
     {
@@ -32,8 +32,8 @@
       "description": "Beschreibung des Post 01",
       "extraContentText": "<strong>Zusatzinformationen B",
       "thumbnail": "https://images.unsplash.com/photo-1559294824-90be3c97141e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "image": ["https://julianquitsch.de/images/anima/anima02.webp",
-                "https://julianquitsch.de/images/anima/anima03.webp"],
+      "image": ["",
+                ""],
       "links": [
                 {
                 "link-id": "1",
